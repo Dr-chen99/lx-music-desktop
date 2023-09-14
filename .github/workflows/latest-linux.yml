@@ -1,0 +1,8 @@
+version: 2.4.1
+files:
+  - url: lx-music-desktop-v2.4.1-x64.rpm
+    sha512: Z+sqg0bqgvcTf6tuV+3TgmAfdCPipmqYbM9ufWDKwu0Zbks6XAB4mO8AdnNUvPrS+S7QtJBW99hTgLYTqm2HQA==
+    size: 77089473
+path: lx-music-desktop-v2.4.1-x64.rpm
+sha512: Z+sqg0bqgvcTf6tuV+3TgmAfdCPipmqYbM9ufWDKwu0Zbks6XAB4mO8AdnNUvPrS+S7QtJBW99hTgLYTqm2HQA==
+releaseDate: '2023-09-09T08:17:08.628Z'
